@@ -8,8 +8,11 @@
 ## 🚀 About Me
 
 🔭 Currently working on software development projects using **JavaScript, Node.js and PostgreSQL**
+
 🧠 Interested in **Cybersecurity and Digital Literacy**
+
 🌱 Learning more about **Full-Stack Development and Data Systems**
+
 🎯 My goal is to create technology that helps people understand and use the digital world safely.
 
 ---
