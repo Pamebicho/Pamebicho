@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Pamela Andrea Gutiérrez
+# Hi there 👋 I'm Pamela Gutiérrez M.
 
 💻 Computer Engineering & Informatics  
 🌎 Based in Chile  
@@ -8,11 +8,8 @@
 ## 🚀 About Me
 
 🔭 Currently working on software development projects using **JavaScript, Node.js and PostgreSQL**
-
 🧠 Interested in **Cybersecurity and Digital Literacy**
-
 🌱 Learning more about **Full-Stack Development and Data Systems**
-
 🎯 My goal is to create technology that helps people understand and use the digital world safely.
 
 ---
@@ -48,10 +45,6 @@
 LinkedIn: https://www.linkedin.com/in/pamela-andrea-guti%C3%A9rrez-morales/
 GitHub: https://github.com/Pamebicho
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact)
-
 ## 🐍 Una serpiente comiendo mis contribuciones.
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
