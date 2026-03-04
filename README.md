@@ -45,9 +45,12 @@
 
 ## 📫 Contact
 
-LinkedIn: www.linkedin.com/in/pamela-gutierrez  
-GitHub: https://github.com/tuusuario
+LinkedIn: https://www.linkedin.com/in/pamela-andrea-guti%C3%A9rrez-morales/
+GitHub: https://github.com/Pamebicho
 ---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact)
 
 ## 🐍 Una serpiente comiendo mis contribuciones.
 <p align = "center">
