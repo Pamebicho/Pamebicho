@@ -36,15 +36,6 @@
 
 ---
 
-## 🛠️ Technologies
-
-💻 JavaScript | Node.js | Express  
-🗄️ PostgreSQL | SQL  
-🎨 HTML | CSS | Bootstrap | Tailwind  
-🔧 Git | GitHub | CLI  
-
----
-
 ## 🌍 Interests
 
 🛡️ Cybersecurity awareness  
@@ -55,6 +46,9 @@
 ---
 
 ## 📫 Contact
+
+LinkedIn: https://www.linkendin.com/in/pamela-andrea-guti%C3%A9rrez-moreales/
+GitHub: https://github.com/Pamebicho
 
 LinkedIn: https://www.linkedin.com/in/pamela-andrea-guti%C3%A9rrez-morales/
 GitHub: https://github.com/Pamebicho
