@@ -50,8 +50,6 @@
 LinkedIn: https://www.linkendin.com/in/pamela-andrea-guti%C3%A9rrez-moreales/
 GitHub: https://github.com/Pamebicho
 
-LinkedIn: https://www.linkedin.com/in/pamela-andrea-guti%C3%A9rrez-morales/
-GitHub: https://github.com/Pamebicho
 ---
 ## 🐍 Una serpiente comiendo mis contribuciones.
 <p align = "center">
