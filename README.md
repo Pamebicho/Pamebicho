@@ -47,7 +47,7 @@
 
 ## 📫 Contact
 
-LinkedIn: https://www.linkendin.com/in/pamela-andrea-guti%C3%A9rrez-moreales/
+LinkedIn: https://www.linkedin.com/in/pamela-gutierrez-m/
 
 GitHub: https://github.com/Pamebicho
 
